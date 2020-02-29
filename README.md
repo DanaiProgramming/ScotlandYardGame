@@ -3,6 +3,8 @@ Created for Object Oriented Programming unit from University of Bristol with col
 https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10009_2018/content/model/index.html
 https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10009_2018/content/ai/index.html
 
+
+
 > Scotland Yard Model 
 
 The project started by creating the essential fields of the model. Consequently, the implementation of the constructor of the model followed. Inside the parameterized constructor, which initializes a newly created ScotlandYardModel object, it was necessary to ensure and check that all the information passed by its parameters, following the rules and restrictions of the game (e.g. not null rounds[] and graph, not two players with the same location or colour, etc.). Lastly, all the provided players information was stored in a list that is mutable in order to access and modify its player’s information during the game.
