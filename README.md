@@ -3,7 +3,8 @@ Created for Object Oriented Programming unit from University of Bristol with col
 https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10009_2018/content/model/index.html
 https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10009_2018/content/ai/index.html
 
-
+1st Part- Model). Developing components for Java application that allows you to simulate and play "Scotland Yard".
+2nd Part- AI   ). Implement a simple Artificial Intelligence component to automate the playing of the game Scotland Yard for MrX in a provided game environment.
 
 > Scotland Yard Model 
 
